@@ -20,8 +20,7 @@ This open-source collection includes STL test models, G-code examples, and custo
 
 For downloads, guides, and OrcaSlicer articles:  
 👉 [https://orcaslicer.us/download](https://orcaslicer.us/download)
-🔗 Visit the official website for [orca slicer](https://orcaslicer.us) to explore more slicer profiles, calibration models, and print guides.
-
+[![Visit Orca Slicer](https://img.shields.io/badge/Visit-OrcaSlicer.us-blue)](https://orcaslicer.us)
 
 ---
 
