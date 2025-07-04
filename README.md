@@ -19,7 +19,7 @@ This open-source collection includes STL test models, G-code examples, and custo
 ## 🔗 Learn More
 
 For downloads, guides, and OrcaSlicer articles:  
-👉 [https://orcaslicer.us/downloads](https://orcaslicer.us/downloads)
+👉 [https://orcaslicer.us/downloads](https://orcaslicer.us/download)
 
 ---
 
