@@ -8,4 +8,4 @@ Print Settings:
 
 No supports required. Ideal for OrcaSlicer retraction tuning.
 
-More slicer profiles: https://orcaslicer.us/downloads
+More slicer profiles: https://orcaslicer.us/download
