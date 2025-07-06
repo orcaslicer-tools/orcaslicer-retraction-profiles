@@ -1,0 +1,58 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+header, footer {
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 1rem;
+}
+h1, h2 {
+  margin: 0.5rem 0;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+.intro {
+  margin-bottom: 2rem;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+.card {
+  background-color: #1f1f1f;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+.card img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 4px;
+}
+.card a {
+  display: block;
+  margin-top: 0.5rem;
+  color: #4fc3f7;
+  text-decoration: none;
+}
+.downloads ul {
+  list-style: none;
+  padding: 0;
+}
+.downloads li {
+  margin-bottom: 0.5rem;
+}
+.downloads a {
+  color: #4fc3f7;
+  text-decoration: none;
+}
